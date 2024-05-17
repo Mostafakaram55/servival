@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62735465851",
+    "project_id": "survival-33408",
+    "storage_bucket": "survival-33408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62735465851:android:b546dbd33fb53cd1ba11de",
+        "android_client_info": {
+          "package_name": "com.example.servival"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZKZU-BQOufhwCk1e0mXQYP5FJVXvaYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
